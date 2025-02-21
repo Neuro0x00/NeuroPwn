@@ -26,7 +26,7 @@
 
 1️⃣ Clone the Repository git clone:
 
-    https://github.com/yourusername/NeuroPwn.git
+    https://github.com/Neuro0x00/NeuroPwn.git
     cd NeuroPwn
 
 2️⃣ Install Requirements:
