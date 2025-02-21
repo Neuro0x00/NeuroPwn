@@ -31,7 +31,7 @@
 
 2️⃣ Install Requirements:
 
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 ⚠ Note: Ensure you have Google Chrome installed since Selenium uses it.
 
@@ -48,11 +48,11 @@
 
     python neuro_pwn.py -u "https://example.com"
 
-3️⃣ 🔍 Parameter Discovery & URL Extraction Find parameters and extract URLs for scanning (recommended):
+2️⃣ 🔍 Parameter Discovery & URL Extraction Find parameters and extract URLs for scanning (recommended):
 
     python neuro_pwn.py -u "https://example.com" --recursive
 
-2️⃣ 🚀 XSS Scanning (Automatic & Advanced Mode) Scan extracted parameters and URLs for XSS vulnerabilities:
+3️⃣ 🚀 XSS Scanning (Automatic & Advanced Mode) Scan extracted parameters and URLs for XSS vulnerabilities:
 
     python neuro_pwn.py -u "https://example.com" --recursive --xss
 
