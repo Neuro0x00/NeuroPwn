@@ -52,9 +52,9 @@ class PayloadManager:
                 url_reflections[url] = reflection_count
                 url_responses[url] = response.text  # Store response for later payload generation
 
-                print(f"{Fore.GREEN} [✔] Reflections for {url + ("Strawhat")} : {reflection_count}{Style.RESET_ALL}")
+                print(f"{Fore.GREEN} [✔] Reflections for {url + 'Strawhat'} : {reflection_count}{Style.RESET_ALL}")
             else:
-                print(f"{Fore.RED}[❌] Request Failed for {url + ("Strawhat")}. Please check the URL or parameters.{Style.RESET_ALL}")
+                print(f"{Fore.RED}[❌] Request Failed for {url + 'Strawhat'}. Please check the URL or parameters.{Style.RESET_ALL}")
 
         if not url_reflections:
             print(f"{Fore.RED}[❌] No reflections found. Attempting alternate payloads...")
